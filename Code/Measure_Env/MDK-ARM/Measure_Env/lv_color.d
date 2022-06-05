@@ -1,0 +1,9 @@
+measure_env\lv_color.o: ..\LVGL\lvgl\src\misc\lv_color.c
+measure_env\lv_color.o: ..\LVGL\lvgl\src\misc\lv_color.h
+measure_env\lv_color.o: ..\LVGL\lvgl\src\misc\../lv_conf_internal.h
+measure_env\lv_color.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+measure_env\lv_color.o: ..\LVGL\lvgl\src\misc\../lv_conf_kconfig.h
+measure_env\lv_color.o: ../LVGL/lvgl/src/core/../../lv_conf.h
+measure_env\lv_color.o: ..\LVGL\lvgl\src\misc\lv_math.h
+measure_env\lv_color.o: ..\LVGL\lvgl\src\misc\lv_types.h
+measure_env\lv_color.o: ..\LVGL\lvgl\src\misc\lv_log.h

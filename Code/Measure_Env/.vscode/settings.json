@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "debug.h": "c",
+        "main.h": "c"
+    }
+}

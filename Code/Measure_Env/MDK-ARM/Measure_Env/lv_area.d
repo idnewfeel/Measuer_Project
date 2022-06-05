@@ -1,0 +1,9 @@
+measure_env\lv_area.o: ..\LVGL\lvgl\src\misc\lv_area.c
+measure_env\lv_area.o: ..\LVGL\lvgl\src\misc\../lv_conf_internal.h
+measure_env\lv_area.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+measure_env\lv_area.o: ..\LVGL\lvgl\src\misc\../lv_conf_kconfig.h
+measure_env\lv_area.o: ../LVGL/lvgl/src/core/../../lv_conf.h
+measure_env\lv_area.o: ..\LVGL\lvgl\src\misc\lv_area.h
+measure_env\lv_area.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\string.h
+measure_env\lv_area.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+measure_env\lv_area.o: ..\LVGL\lvgl\src\misc\lv_math.h

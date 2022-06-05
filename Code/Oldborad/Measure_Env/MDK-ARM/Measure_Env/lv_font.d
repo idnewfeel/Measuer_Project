@@ -1,0 +1,14 @@
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\lv_font.c
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\lv_font.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\../lv_conf_internal.h
+measure_env\lv_font.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\../lv_conf_kconfig.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\core\../../lv_conf.h
+measure_env\lv_font.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+measure_env\lv_font.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\lv_symbol_def.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\../misc/lv_area.h
+measure_env\lv_font.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\string.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\../misc/lv_utils.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\../misc/lv_log.h
+measure_env\lv_font.o: ..\LVGL\lvgl\src\font\../misc/lv_assert.h

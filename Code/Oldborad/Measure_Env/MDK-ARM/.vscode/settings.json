@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "tim_management.h": "c",
+        "system.h": "c",
+        "indicator.h": "c",
+        "encoder.h": "c",
+        "limits": "c",
+        "memory": "c",
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "type_traits": "c",
+        "xutility": "c",
+        "lv_port_indev.h": "c",
+        "main.h": "c",
+        "lcd_init.h": "c",
+        "string": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "lv_port_disp.h": "c",
+        "lcd.h": "c",
+        "initializer_list": "c",
+        "ui.h": "c",
+        "user_ui.h": "c",
+        "UI_HELPERS.H": "cpp"
+    }
+}

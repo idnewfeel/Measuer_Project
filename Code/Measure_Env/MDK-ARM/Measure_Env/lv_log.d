@@ -1,0 +1,14 @@
+measure_env\lv_log.o: ..\LVGL\lvgl\src\misc\lv_log.c
+measure_env\lv_log.o: ..\LVGL\lvgl\src\misc\lv_log.h
+measure_env\lv_log.o: ..\LVGL\lvgl\src\misc\../lv_conf_internal.h
+measure_env\lv_log.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+measure_env\lv_log.o: ..\LVGL\lvgl\src\misc\../lv_conf_kconfig.h
+measure_env\lv_log.o: ../LVGL/lvgl/src/core/../../lv_conf.h
+measure_env\lv_log.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+measure_env\lv_log.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\string.h
+measure_env\lv_log.o: ..\LVGL\lvgl\src\misc\lv_printf.h
+measure_env\lv_log.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\inttypes.h
+measure_env\lv_log.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+measure_env\lv_log.o: ..\LVGL\lvgl\src\misc\../hal/lv_hal_tick.h
+measure_env\lv_log.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+measure_env\lv_log.o: D:\App\MDK\ARM\ARMCC\Bin\..\include\stdio.h
