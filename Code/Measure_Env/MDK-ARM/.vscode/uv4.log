@@ -1,5 +1,5 @@
 Load "Measure_Env\\Measure_Env.axf" 
-Set JLink Project File to "e:\work\LxL_Work\DIY\Measuer_Env\Code\Measure_Env\MDK-ARM\JLinkSettings.ini"* JLink Info: Device "STM32F411RE" selected.
+Set JLink Project File to "e:\work\LxL_Work\DIY\Measuer_Env\Measuer_Project\Code\Measure_Env\MDK-ARM\JLinkSettings.ini"* JLink Info: Device "STM32F411RE" selected.
 
 JLink info:
 ------------
@@ -45,4 +45,4 @@ JTAG speed: 2000 kHz
 Erase Done.Programming Done.Verify OK.* JLink Info: Reset: Halt core after reset via DEMCR.VC_CORERESET.
 * JLink Info: Reset: Reset device via AIRCR.SYSRESETREQ.
 Application running ...
-Flash Load finished at 22:31:51
+Flash Load finished at 19:14:07

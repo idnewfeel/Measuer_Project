@@ -223,12 +223,12 @@ int main(void)
   MX_USART6_UART_Init();
   MX_ADC1_Init();
   MX_TIM5_Init();
-  MX_SDIO_SD_Init();
-  MX_FATFS_Init();
+  // MX_SDIO_SD_Init();
+  // MX_FATFS_Init();
   MX_TIM3_Init();
   /* USER CODE BEGIN 2 */
 
-	Fatfs_RW_test();
+	// Fatfs_RW_test(); //如果不要SD卡屏蔽SDIO和FATFS初始化
   //关闭背光
   HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_4);
 
