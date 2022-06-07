@@ -45,3 +45,7 @@ lv_img_set_src(ui_TVOC,"S:/pic/tvoc2.bin");
 	LCD_WR_DATA8(0x40); //镜像显示
 ```
 * 后期可以考虑在SD卡加上储存数据的功能
+
+
+## 模型 ##
+左壳儿V3是最新修改后的模型
