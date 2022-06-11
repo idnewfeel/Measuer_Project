@@ -217,7 +217,7 @@ void System_Run(void)
 	{
 		if(MAX17048_Run(&max17048)==MAX17048_Idle && SHT31_Run(&SHT31)==SHT31_Idle && sgp_idle_time>=1000)//MAX17048电池电量测量 96ms		//SHT31温湿度传感器测量  	//97ms
 		{
-			sys_state = 1;
+			sys_state=1;
 		}	
 		else if ((max17048.WorkState == MAX17048_Offline) || (SHT31.WorkState == SHT31_Offline))
 		{
