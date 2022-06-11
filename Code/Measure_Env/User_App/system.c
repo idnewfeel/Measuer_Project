@@ -221,7 +221,7 @@ void System_Run(void)
 		}	
 		else if ((max17048.WorkState == MAX17048_Offline) || (SHT31.WorkState == SHT31_Offline))
 		{
-			sys_state = 1;
+			sys_state=1;
 		}
 
 	}
