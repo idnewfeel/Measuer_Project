@@ -41,23 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\PCB库\LeePCB.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MXGBLAKI
-
-[Document2]
 DocumentPath=TV_Measure.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKQIZQUA
 
-[Document3]
+[Document2]
 DocumentPath=MeasureV3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,14 +73,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJGETMYO
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project\Design Rule Check - Measure.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project\Design Rule Check - MeasureV3.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

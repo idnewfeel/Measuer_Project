@@ -219,6 +219,11 @@ void System_Run(void)
 		{
 			sys_state = 1;
 		}	
+		else if ((max17048.WorkState == MAX17048_Offline) || (SHT31.WorkState == SHT31_Offline))
+		{
+			sys_state = 1;
+		}
+
 	}
 	else
 	{
@@ -226,6 +231,11 @@ void System_Run(void)
 		{
 			sgp_idle_time=0;
 			sys_state=0;
+		}
+		else if(SGP40.Status == SGP_Offline)
+		{
+			sgp_idle_time=0;
+			sys_state=0;			
 		}
 		
 	}
